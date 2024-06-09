@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Meng Yueqi
-- 🔭 I’m currently working on MIPS CPU design(using verilog language).
-- 🌱 I’m currently learning Natural Language Processing(NLP). <br> <br>
+
+- 🔭 I’m currently working on Web Development (By using VUE).
+- 🌱 I’m currently studying the Deep Learning. 
+- 🔗 If you have any thing want to ask me, please send me an email (mengyq2002@gmail.com).<br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MengYueqi&layout=compact&hide=CMake,TeX)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MengYueqi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MengYueqi/MengYueqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
