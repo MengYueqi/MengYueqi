@@ -18,7 +18,7 @@
   <!-- GitHub Trophy 独占一行 -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=MengYueqi&theme=onedark&row=1&column=6&no-frame=true" alt="MengYueqi's GitHub Trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=MengYueqi&theme=onedark&row=1&column=6&no-frame=true&no-bg=true" alt="MengYueqi's GitHub Trophy" />
     </td>
   </tr>
 
