@@ -1,23 +1,18 @@
 ### Hi there 👋 I'm Meng Yueqi
 
-- 🔭 I’m currently working on Web Development (By using VUE).
-- 🌱 I’m currently studying the Deep Learning. 
-- 🔗 If you have any thing want to ask me, please send me an email (mengyq2002@gmail.com).<br> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MengYueqi&layout=compact&hide=CMake,TeX)](https://github.com/anuraghazra/github-readme-stats)
-<br> <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MengYueqi)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Illegal Information Detection.
+- 🌱 I’m currently studying the Deep Learning.
+- 🔗 If you have any thing want to ask me, please send me an email (mengyq2002@gmail.com).<br>
+</br>
 
-<!--
-**MengYueqi/MengYueqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| <img width="500px" src="https://github-readme-stats.vercel.app/api?username=MengYueqi&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="MengYueqi's github stats" /> | <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengYueqi&hide=CMake,TeX&layout=compact&theme=buefy&hide_border=true" alt="MengYueqi's top languages" /> |
+| ------------- | ------------- |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Activity Graph -->
+<div align="center" style="width: 90%; margin: auto; margin-top: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MengYueqi&theme=react-dark&bg_color=FF000000&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MengYueqi&theme=react-dark&bg_color=FF000000&color=000000&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MengYueqi&theme=react-dark&bg_color=FF000000&hide_border=true" style="width: 100%;" />
+  </picture>
+</div>
