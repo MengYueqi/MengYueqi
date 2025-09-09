@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Meng Yueqi
 
-- 🔭 I’m currently working on Illegal Information Detection.
-- 🌱 I’m currently studying the Deep Learning.
-- 🔗 If you have any thing want to ask me, please send me an email (mengyq2002@gmail.com).<br>
+- 🤖 My interests: AI Agent, Backend Development (Go).
+- 🌱 Currently learning Go backend development.
+- 🔗 If you have any questions, feel free to contact me via email (mengyq2002@gmail.com).<br>
 </br>
 
 <table align="center">
@@ -32,25 +32,4 @@
       </picture>
     </td>
   </tr>
-
-  <!-- Streak Stats 独占一行
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=MengYueqi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="MengYueqi's Streak Stats" />
-    </td>
-  </tr>
-
-  <!-- Devicons 技术栈图标独占一行 -->
-  <!-- <tr>
-    <td colspan="2" align="center">
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-      </div>
-    </td>
-  </tr> -->
 </table>
-<!-- 表格布局结束 -->
